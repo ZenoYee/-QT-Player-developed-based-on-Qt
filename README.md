@@ -9,3 +9,7 @@
 3、音量设置  
 4、倍速设置  
 # 界面展示  
+播放器初始界面  
+![GitHub Logo](https://raw.githubusercontent.com/ZenoYee/-QT-Player-developed-based-on-Qt/main/%E6%92%AD%E6%94%BE%E5%99%A8%E7%95%8C%E9%9D%A2.png）  
+播放器播放页面  
+![GitHub Logo](）  
